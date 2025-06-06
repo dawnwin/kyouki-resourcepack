@@ -1,2 +1,2 @@
 # kyouki-resourcepack
-I'm gonna make stupid resource for GTCEu
+I'm gonna make stupid resourcepacks for GTCEu and NomifactoryCEu/HOGifactory 
